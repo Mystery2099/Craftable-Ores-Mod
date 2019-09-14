@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:emerald"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "com:emerald_chip",
+        "count": 9
+    }
+}
