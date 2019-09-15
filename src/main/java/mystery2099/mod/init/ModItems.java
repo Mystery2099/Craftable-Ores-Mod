@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import mystery2099.mod.objects.Items.ItemBase;
+import net.minecraft.block.BlockStone;
 import net.minecraft.item.Item;
 
 public class ModItems 
