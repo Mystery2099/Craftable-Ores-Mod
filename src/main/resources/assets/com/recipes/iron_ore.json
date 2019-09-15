@@ -1,5 +1,5 @@
 {
-    "type": "crafting_shaped",
+    "type": "minecraft_crafting_shaped",
     "pattern": [
         "###",
         "#S#",
@@ -10,7 +10,7 @@
             "item": "minecraft:iron_nugget"
         },
         "S": {
-            "item": "minecraft:cobblestone"
+            "item": "minecraft:stone"
         }
     },
     "result": {
